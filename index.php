@@ -1,3 +1,6 @@
 <?php
-echo 'hello';
-echo 'hello 2';
+$num = 1
+$num_2 = 1
+$name_of_it = 'Dmitry'
+
+echo $num + $num_2
