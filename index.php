@@ -1,8 +1,6 @@
 <?php
-$num = 1;
-$num_2 = 1;
-$hello = 'Привет';
-$name_of_it = "$hello Dmitry";
-$name_of_it_2 = '<b>Usov</b>';
+$name = ['hello', 'hello1', 'hello2', 1, 2, 3];
 
-echo $name_of_it . ' ' . $name_of_it_2;
+echo '<pre>';
+echo "$name";
+echo '/<pre>';
