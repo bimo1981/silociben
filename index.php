@@ -2,5 +2,5 @@
 $name = ['hello', 'hello1', 'hello2', 1, 2, 3];
 
 echo '<pre>';
-echo "$name";
+print_r($name);
 echo '/<pre>';
