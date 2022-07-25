@@ -7,11 +7,9 @@
 
 $number1 = 15;
 $number2 = "12";
-$number3 = 11;
+$number3 = (integer)$number2;
 
-(integer)$number2;
-
-echo gettype($number2)
+echo gettype($number3)
 
 ?>
 </body>
