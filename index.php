@@ -11,8 +11,8 @@
     <?php 
     // Variables
     $n1 = $n2 = $n3 = 5;
-    echo $n2;
-    echo 'All the files: <br>'  . `ls`;
+    echo "Numbers: {$n2}";
+    echo 'All the files: <br>'  . `ls <br>`;
 
     ?>
     
