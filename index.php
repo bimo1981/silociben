@@ -6,6 +6,18 @@
     <title><?= 'hello ?'; ?></title>
 </head>
 <body>
+
+    <?php
+    
+    echo 'Первый том';
+    include'second.php';
+    echo 'Тертий том';
+
+    ?>
+
+
+
+
     <?php
     if(mt_rand(0,1)){
         ?>
