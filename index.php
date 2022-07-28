@@ -12,7 +12,7 @@
     // Variables
     $n1 = $n2 = $n3 = 5;
     echo "Numbers: {$n2} <br>";
-    echo 'All the files: <br>'  . `ls <br>`;
+    echo 'All the files: <br>'  . `ls`;
 
     ?>
     
